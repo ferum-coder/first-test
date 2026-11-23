@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iskra-project.com.ua/sitemap.xml

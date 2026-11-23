@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-46 -46 92 92" width="92" height="92" role="img" aria-label="Iskra">
+<title>Iskra</title>
+<g transform="translate(0 0) scale(1)">
+    <defs>
+      <radialGradient id="f-rays" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="42">
+        <stop offset="0" stop-color="#BFF6FF"/><stop offset="0.38" stop-color="#2EC5E0"/><stop offset="0.75" stop-color="#6C7CFF"/><stop offset="1" stop-color="#A78BFA"/>
+      </radialGradient>
+      <radialGradient id="f-glow" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="30">
+        <stop offset="0" stop-color="#7FE8FF" stop-opacity="0.55"/><stop offset="1" stop-color="#6C7CFF" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <circle r="30" fill="url(#f-glow)"/>
+    <g fill="url(#f-rays)"><path d="M0,-42 L2.8,-13 L0,-7.5 L-2.8,-13Z" transform="rotate(0) scale(1)"/><path d="M0,-42 L2.8,-13 L0,-7.5 L-2.8,-13Z" transform="rotate(45) scale(0.58)"/><path d="M0,-42 L2.8,-13 L0,-7.5 L-2.8,-13Z" transform="rotate(90) scale(1)"/><path d="M0,-42 L2.8,-13 L0,-7.5 L-2.8,-13Z" transform="rotate(135) scale(0.58)"/><path d="M0,-42 L2.8,-13 L0,-7.5 L-2.8,-13Z" transform="rotate(180) scale(1)"/><path d="M0,-42 L2.8,-13 L0,-7.5 L-2.8,-13Z" transform="rotate(225) scale(0.58)"/><path d="M0,-42 L2.8,-13 L0,-7.5 L-2.8,-13Z" transform="rotate(270) scale(1)"/><path d="M0,-42 L2.8,-13 L0,-7.5 L-2.8,-13Z" transform="rotate(315) scale(0.58)"/></g>
+    <circle r="4.2" fill="#FFFFFF"/>
+    <path d="M33,-36.5 Q33.88,-31.88 38.5,-31 Q33.88,-30.12 33,-25.5 Q32.12,-30.12 27.5,-31 Q32.12,-31.88 33,-36.5Z" fill="#FFFFFF" opacity="0.85"/><path d="M-34,25.4 Q-33.42,28.42 -30.4,29 Q-33.42,29.58 -34,32.6 Q-34.58,29.58 -37.6,29 Q-34.58,28.42 -34,25.4Z" fill="#FFFFFF" opacity="0.6"/><path d="M38,17.6 Q38.38,19.62 40.4,20 Q38.38,20.38 38,22.4 Q37.62,20.38 35.6,20 Q37.62,19.62 38,17.6Z" fill="#FFFFFF" opacity="0.5"/>
+  </g>
+</svg>

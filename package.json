@@ -1,0 +1,20 @@
+{
+  "name": "iskra-site",
+  "private": true,
+  "scripts": {
+    "pw": "playwright-cli",
+    "build:stars": "node scripts/build-stars.mjs",
+    "build:assets": "node scripts/copy-assets.mjs",
+    "build": "npm run build:stars && npm run build:assets",
+    "serve": "npx http-server site -p 8080 -c-1",
+    "test": "playwright test",
+    "zip": "node scripts/zip.mjs"
+  },
+  "devDependencies": {
+    "@fontsource-variable/manrope": "^5.3.0",
+    "@playwright/cli": "^0.1.24",
+    "@playwright/test": "^1.65.1",
+    "archiver": "^8.0.0",
+    "http-server": "^14.1.1"
+  }
+}

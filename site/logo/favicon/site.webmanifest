@@ -1,0 +1,11 @@
+{
+  "name": "Iskra",
+  "short_name": "Iskra",
+  "icons": [
+    { "src": "/logo/favicon/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/logo/favicon/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#070C24",
+  "background_color": "#070C24",
+  "display": "standalone"
+}

@@ -1,0 +1,9 @@
+node_modules/
+.playwright-cli/
+dist/
+test-results/
+playwright-report/
+.playwright/
+tests/screenshots/
+.claude/settings.local.json
+*.log

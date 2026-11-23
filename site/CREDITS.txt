@@ -1,0 +1,2 @@
+Star and constellation data: d3-celestial by Olaf Frohn, BSD-3-Clause (https://github.com/ofrohn/d3-celestial)
+Font: Manrope by Mikhail Sharanda, SIL Open Font License 1.1

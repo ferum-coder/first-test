@@ -1,0 +1,11 @@
+/* Iskra — фірмова палітра */
+:root {
+  --iskra-starlight: #BFF6FF; /* зоряне світло, центр променів */
+  --iskra-cyan:      #2EC5E0; /* бірюзова іскра */
+  --iskra-blue:      #6C7CFF; /* космічний синій, основний акцент */
+  --iskra-nebula:    #A78BFA; /* туманність */
+  --iskra-night:     #070C24; /* нічне небо, темний фон */
+  --iskra-navy:      #0E1B3D; /* текст на світлому фоні */
+  --iskra-ice:       #EEF3FA; /* крижаний, світлий фон */
+  --iskra-gradient: linear-gradient(135deg, #2EC5E0 0%, #6C7CFF 55%, #A78BFA 100%);
+}
